@@ -2,5 +2,5 @@
 
 Meu nome é Fernanda Ruiz esse é meu perfil
 
-  -Estou estudando na Alura
+  -Estou estudando atraves do Alura
 
